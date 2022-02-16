@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b08352ff9c8da6041ad63cd6cee0d525
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zeminkarosu: {fileID: 1443731147217831668, guid: b3319e88a03239b4fa38c4cc173469d6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
